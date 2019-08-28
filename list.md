@@ -8,7 +8,7 @@ This page contains confirmed reports.  All reports submitted by the github accou
 ## MD and RD reports
 
 | Project Name | Report Link | Report Submission |
-| :----------- | :-----------| :-----------------|
+| :----------- | :---------- | :---------------- |
 | LLVM | [link1](http://47.74.247.228:8888/platform/#/platform/report/5d5fa00fb9d7fb85558c8f95?view=overview&rep=5d5fa00fb9d7fb8553f02422) | [None Link] |
 | OpenCV | [link1](http://47.74.247.228:8888/platform/#/platform/report/5d5ee361b9d7fb85558c8f94?view=overview&rep=5d5ee361b9d7fb8553f01c8d) | [None Link] |
 | Python | [Link1](http://47.74.247.228:8888/platform/#/platform/report/5caca9b5b9d7fb085754cad7?view=overview&rep=5caca9b5b9d7fb085754cad8) [Link2](http://47.74.247.228:8888/platform/#/platform/report/5d3a8da8b9d7fb337379a35b?view=overview&rep=5d3a8da8b9d7fb3371220176) | [Link1](https://github.com/python/cpython/pull/14758) |
