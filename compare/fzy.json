@@ -1,0 +1,92 @@
+{
+    "MP(mkcheck own | vemake own | shared)": [
+        0, 
+        0, 
+        17
+    ], 
+    "vemake_EP_own": [], 
+    "EP(mkcheck own | vemake own | shared)": [
+        1, 
+        0, 
+        0
+    ], 
+    "shared_EP_report": [], 
+    "mkcheck_EP_own": [
+        [
+            "src/choices.o", 
+            "src/config.def.h"
+        ]
+    ], 
+    "shared_MP_report": [
+        [
+            "src/match.o", 
+            "src/bonus.h"
+        ], 
+        [
+            "src/choices.o", 
+            "src/choices.h"
+        ], 
+        [
+            "src/fzy.o", 
+            "src/choices.h"
+        ], 
+        [
+            "src/tty_interface.o", 
+            "src/choices.h"
+        ], 
+        [
+            "src/choices.o", 
+            "src/match.h"
+        ], 
+        [
+            "src/fzy.o", 
+            "src/match.h"
+        ], 
+        [
+            "src/match.o", 
+            "src/match.h"
+        ], 
+        [
+            "src/tty_interface.o", 
+            "src/match.h"
+        ], 
+        [
+            "src/choices.o", 
+            "src/options.h"
+        ], 
+        [
+            "src/fzy.o", 
+            "src/options.h"
+        ], 
+        [
+            "src/options.o", 
+            "src/options.h"
+        ], 
+        [
+            "src/tty_interface.o", 
+            "src/options.h"
+        ], 
+        [
+            "src/fzy.o", 
+            "src/tty.h"
+        ], 
+        [
+            "src/tty.o", 
+            "src/tty.h"
+        ], 
+        [
+            "src/tty_interface.o", 
+            "src/tty.h"
+        ], 
+        [
+            "src/fzy.o", 
+            "src/tty_interface.h"
+        ], 
+        [
+            "src/tty_interface.o", 
+            "src/tty_interface.h"
+        ]
+    ], 
+    "mkcheck_MP_own": [], 
+    "vemake_MP_own": []
+}

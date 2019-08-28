@@ -1,0 +1,27 @@
+{
+    "MP(mkcheck own | vemake own | shared)": [
+        0, 
+        0, 
+        2
+    ], 
+    "vemake_EP_own": [], 
+    "EP(mkcheck own | vemake own | shared)": [
+        0, 
+        0, 
+        0
+    ], 
+    "shared_EP_report": [], 
+    "mkcheck_EP_own": [], 
+    "shared_MP_report": [
+        [
+            "itlan/opcpp",
+            "itlan/operation.h"
+        ],
+        [
+            "itlan/wrapper.o",
+            "itlan/operation.h"
+        ]
+    ], 
+    "mkcheck_MP_own": [], 
+    "vemake_MP_own": []
+}

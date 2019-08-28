@@ -1,0 +1,53 @@
+{
+    "MP(mkcheck own | vemake own | shared)": [
+        1, 
+        2, 
+        5
+    ], 
+    "vemake_EP_own": [], 
+    "EP(mkcheck own | vemake own | shared)": [
+        0, 
+        0, 
+        0
+    ], 
+    "shared_EP_report": [], 
+    "mkcheck_EP_own": [], 
+    "shared_MP_report": [
+        [
+            "namespaced_parser.o", 
+            "snazzle_common.h"
+        ], 
+        [
+            "snazzle_lex.o", 
+            "snazzle_common.h"
+        ], 
+        [
+            "snazzle_parse.o", 
+            "snazzle_common.h"
+        ], 
+        [
+            "snazzle_lex.o", 
+            "snazzle_parse.h"
+        ], 
+        [
+            "snazzle_parse.o", 
+            "snazzle_parse.h"
+        ]
+    ], 
+    "mkcheck_MP_own": [
+        [
+            "snazzle_lex.o", 
+            "snazzle_parse.y"
+        ]
+    ], 
+    "vemake_MP_own": [ 
+        [
+            "snazzle_parse.o", 
+            "snazzle_lex.h"
+        ], 
+        [
+            "snazzle_parse.o", 
+            "snazzle_parse.c"
+        ]
+    ]
+}

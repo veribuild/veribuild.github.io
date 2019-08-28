@@ -1,0 +1,72 @@
+{
+    "MP(mkcheck own | vemake own | shared)": [
+        2, 
+        11, 
+        0
+    ], 
+    "vemake_EP_own": [], 
+    "EP(mkcheck own | vemake own | shared)": [
+        0, 
+        0, 
+        0
+    ], 
+    "shared_EP_report": [], 
+    "mkcheck_EP_own": [], 
+    "shared_MP_report": [], 
+    "mkcheck_MP_own": [
+        [
+            "bin/kleaver", 
+            "third_party/git/strbuf.h"
+        ], 
+        [
+            "bin/kleaver", 
+            "third_party/linux/list.h"
+        ]
+    ], 
+    "vemake_MP_own": [
+        [
+            ".dep.o", 
+            "third_party/git/strbuf.h"
+        ], 
+        [
+            ".dep.o", 
+            "third_party/linux/list.h"
+        ], 
+        [
+            ".extcmd.o", 
+            "third_party/git/strbuf.h"
+        ], 
+        [
+            "third_party/git/.strbuf.o", 
+            "third_party/git/strbuf.h"
+        ], 
+        [
+            ".build.o", 
+            "third_party/git/strbuf.h"
+        ], 
+        [
+            ".build.o", 
+            "third_party/linux/list.h"
+        ], 
+        [
+            ".config.o", 
+            "third_party/git/strbuf.h"
+        ], 
+        [
+            ".config.o", 
+            "third_party/linux/list.h"
+        ], 
+        [
+            ".env.o", 
+            "third_party/git/strbuf.h"
+        ], 
+        [
+            ".main.o", 
+            "third_party/git/strbuf.h"
+        ], 
+        [
+            "bin/.kleaver.cmd.tmp", 
+            "bin/.kleaver.cmd"
+        ]
+    ]
+}

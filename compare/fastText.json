@@ -1,0 +1,59 @@
+{
+    "MP(mkcheck own | vemake own | shared)": [
+        0, 
+        10, 
+        0
+    ], 
+    "vemake_EP_own": [], 
+    "EP(mkcheck own | vemake own | shared)": [
+        0, 
+        0, 
+        0
+    ], 
+    "shared_EP_report": [], 
+    "mkcheck_EP_own": [], 
+    "shared_MP_report": [], 
+    "mkcheck_MP_own": [], 
+    "vemake_MP_own": [
+        [
+            "fasttext", 
+            "src/densematrix.h"
+        ], 
+        [
+            "fasttext", 
+            "src/dictionary.h"
+        ], 
+        [
+            "fasttext", 
+            "src/matrix.h"
+        ], 
+        [
+            "fasttext", 
+            "src/utils.h"
+        ], 
+        [
+            "fasttext", 
+            "src/model.h"
+        ], 
+        [
+            "fasttext", 
+            "src/real.h"
+        ], 
+        [
+            "fasttext", 
+            "src/meter.h"
+        ], 
+        [
+            "fasttext", 
+            "src/args.h"
+        ], 
+        [
+            "fasttext", 
+            "src/vector.h"
+        ], 
+        [
+            "fasttext", 
+            "src/fasttext.h"
+        ]
+    ]
+}

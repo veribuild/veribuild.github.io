@@ -1,0 +1,51 @@
+{
+    "MP(mkcheck own | vemake own | shared)": [
+        0,
+        0,
+        0
+    ],
+    "vemake_EP_own": [],
+    "EP(mkcheck own | vemake own | shared)": [
+        0,
+        0,
+        8
+    ],
+    "mkcheck_EP_own": [],
+    "shared_EP_report": [
+        [
+            "src/err_msg.o",
+            "config.mk"
+        ],
+        [
+            "src/hash.o",
+            "config.mk"
+        ],
+        [
+            "src/map.o",
+            "config.mk"
+        ],
+        [
+            "src/mpool.o",
+            "config.mk"
+        ],
+        [
+            "src/scope.o",
+            "config.mk"
+        ],
+        [
+            "src/symbol.o",
+            "config.mk"
+        ],
+        [
+            "src/text.o",
+            "config.mk"
+        ],
+        [
+            "src/vector.o",
+            "config.mk"
+        ]
+    ],
+    "shared_MP_report": [],
+    "mkcheck_MP_own": [],
+    "vemake_MP_own": []
+}

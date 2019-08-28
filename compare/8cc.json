@@ -1,0 +1,18 @@
+{
+    "MP(mkcheck own | vemake own | shared)": [
+        0, 
+        0, 
+        0
+    ], 
+    "vemake_EP_own": [], 
+    "EP(mkcheck own | vemake own | shared)": [
+        0, 
+        0, 
+        0
+    ], 
+    "shared_EP_report": [], 
+    "mkcheck_EP_own": [], 
+    "shared_MP_report": [], 
+    "mkcheck_MP_own": [], 
+    "vemake_MP_own": []
+}

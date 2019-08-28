@@ -1,0 +1,92 @@
+{
+    "MP(mkcheck own | vemake own | shared)": [
+        0, 
+        14, 
+        0
+    ], 
+    "vemake_EP_own": [], 
+    "EP(mkcheck own | vemake own | shared)": [
+        4, 
+        0, 
+        0
+    ], 
+    "shared_EP_report": [], 
+    "mkcheck_EP_own": [
+        [
+            "train_add", 
+            "makefile"
+        ], 
+        [
+            "train_toy", 
+            "makefile"
+        ], 
+        [
+            "train_toy", 
+            "train_add.cpp"
+        ], 
+        [
+            "train_add", 
+            "train_toy.cpp"
+        ]
+    ], 
+    "shared_MP_report": [], 
+    "mkcheck_MP_own": [], 
+    "vemake_MP_own": [
+        [
+            "train_toy", 
+            "StackRNN.h"
+        ], 
+        [
+            "train_toy", 
+            "task.h"
+        ], 
+        [
+            "train_toy", 
+            "Nonlinearity.h"
+        ], 
+        [
+            "train_toy", 
+            "Vec.h"
+        ], 
+        [
+            "train_toy", 
+            "Linear.h"
+        ], 
+        [
+            "train_toy", 
+            "utils.h"
+        ], 
+        [
+            "train_toy", 
+            "common.h"
+        ], 
+        [
+            "train_add", 
+            "StackRNN.h"
+        ], 
+        [
+            "train_add", 
+            "task.h"
+        ], 
+        [
+            "train_add", 
+            "Nonlinearity.h"
+        ], 
+        [
+            "train_add", 
+            "Linear.h"
+        ], 
+        [
+            "train_add", 
+            "Vec.h"
+        ], 
+        [
+            "train_add", 
+            "utils.h"
+        ], 
+        [
+            "train_add", 
+            "common.h"
+        ]
+    ]
+}

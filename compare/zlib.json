@@ -1,0 +1,31 @@
+{
+    "MP(mkcheck own | vemake own | shared)": [
+        0, 
+        0, 
+        3
+    ], 
+    "vemake_EP_own": [], 
+    "EP(mkcheck own | vemake own | shared)": [
+        0, 
+        0, 
+        0
+    ], 
+    "shared_EP_report": [], 
+    "mkcheck_EP_own": [], 
+    "shared_MP_report": [
+        [
+            "zutil.lo", 
+            "gzguts.h"
+        ], 
+        [
+            "zutil.o", 
+            "gzguts.h"
+        ], 
+        [
+            "libz.so.1.2.11", 
+            "zlib.map"
+        ]
+    ], 
+    "mkcheck_MP_own": [], 
+    "vemake_MP_own": []
+}

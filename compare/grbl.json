@@ -1,0 +1,107 @@
+{
+    "MP(mkcheck own | vemake own | shared)": [
+        0, 
+        0, 
+        22
+    ], 
+    "vemake_EP_own": [], 
+    "EP(mkcheck own | vemake own | shared)": [
+        0, 
+        0, 
+        0
+    ], 
+    "shared_EP_report": [], 
+    "mkcheck_EP_own": [], 
+    "shared_MP_report": [
+        [
+            "build/main.o", 
+            "grbl/config.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/coolant_control.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/cpu_map.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/cpu_map/cpu_map_atmega328p.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/defaults.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/defaults/defaults_generic.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/eeprom.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/gcode.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/grbl.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/limits.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/motion_control.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/nuts_bolts.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/planner.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/print.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/probe.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/protocol.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/report.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/serial.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/settings.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/spindle_control.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/stepper.h"
+        ], 
+        [
+            "build/main.o", 
+            "grbl/system.h"
+        ]
+    ], 
+    "mkcheck_MP_own": [], 
+    "vemake_MP_own": []
+}
