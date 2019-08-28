@@ -7,6 +7,6 @@ layout: default
 
 Tips for YOU: [Tips](/tips)
 
-Effectiveness: [Reports List](/list)
+Effectiveness: [Report List](/list)
 
 Efficiency: [Compare with MkCheck](/compare)
