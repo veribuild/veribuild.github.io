@@ -5,8 +5,11 @@
 layout: default
 ---
 
-Tips for YOU: [Tips](/tips)
+## Tips for YOU
+There are some [tips](/tips) for you. These tips might can help you to understand the reports of VeriBuild.
 
-Effectiveness: [Report List](/list)
+## Effectiveness
+If you want to know the details of the reports provided by Veribuild, you can read this [list](/list).
 
-Efficiency: [Compare with MkCheck](/compare)
+## Efficiency
+If you want to know the comparison results of VeriBuild and MkCheck, you can read this [list](/compare).
