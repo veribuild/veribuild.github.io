@@ -23,3 +23,15 @@ This page contains the comparison results of VeriBuild and MkCheck.
 | [cctz](compare/cctz.json) | [0, 0, 0] | [0, 0, 0] |
 | [mpc](compare/mpc.json) | [0, 22, 0] | [146, 0, 0] |
 | [tig](compare/tig.json) | [0, 0, 0] | [0, 0, 0]|
+| [x86-thing](compare/x86-thing.json) | [0, 0, 76] | [1, 0, 0] |
+| [gwion-util](compare/gwion-util.json) | [0, 0, 0] | [0, 0, 8] |
+| [namespaced_parser](compare/namespaced_parser.json) | [1, 2, 5] | [0, 0, 0] |
+| [lec](compare/lec.json) | [0, 0, 2] | [0, 0, 0] |
+| [Bftpd](compare/bftpd.json) | [0, 0, 9] | [97, 0, 0] |
+| [grbl](compare/grbl.json) | [0, 0, 22] | [0, 0, 0] |
+| [cJSON](compare/cJSON.json) | [0, 0, 1] | [0, 0, 0] |
+| [gravity](compare/gravity.json) | [0, 262, 0] | [4, 0, 0] |
+| [LAME](compare/lame-3.100.json) | [63, 25165, 3] | [324, 0, 0] |
+| [Capstone](compare/capstone.json) | [5854, 4652, 123] | [1231, 207, 0] |
+| [libco](compare/libco.json) | [40, 3, 31] | [20, 0, 0] |
+| [Bash](compare/bash-5.0.json) | [318, 9623, 1511] | [617, 45, 0]|
