@@ -49,4 +49,3 @@ This page contains the comparison results of VeriBuild and MkCheck.
 | [http-parser](compare/http-parser.json) | [0, 0, 0] | [0, 0, 0] |
 | [clib](compare/clib.json) |[0, 31, 147] | [6, 0, 0]|
 | [Cppcheck](compare/cppcheck-1.87.json) | [0, 16, 0] | [21, 0, 0]|
-

@@ -12,7 +12,7 @@ This page contains all the reports reported by VeriBuild.
 - In each item of bug reports, the CDG records the reachable nodes along with actual dependency edges and the DDG records the available files. These two graphs are extracted based on the query of the UDG and displayed in the report for the convenience of bug check.
 
 ## Acknowledgement
-- Thanks to [Sourcebrella Inc](https://www.sourcebrella.com/), we borrowed their bug report system to help us speed up the whole process. We use their free version for academic use [LINK](https://www.sourcebrella.com/online-showcase).
+- Thanks to [Sourcebrella Inc](https://www.sourcebrella.com/), we bought their bug report system to help us to process the bug check. We use their [full version](https://www.sourcebrella.com/online-showcase) for academic use.
 
 ## Details of Reports
 ### MD and RD Reports
