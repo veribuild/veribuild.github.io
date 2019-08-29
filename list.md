@@ -6,7 +6,7 @@ title: list
 This page contains all the reports reported by VeriBuild. 
 
 - Some reports were submitted by the github account: [vemakereporter](https://github.com/vemakereporter) and the corresponding pull-requests were submitted. Some of them have been confirmed and merged.
-- Some reports were submitted by the tickets in the sourceforge. Some developers confirmed our bug reports by email, and these emails can be accessed through the corresponding links.
+- Some reports were submitted by the tickets in the SourceForge. Some developers confirmed our bug reports by email, and these emails can be accessed through the corresponding links.
 - [None Link] means we didn't submit the reports of these projects, or there are not any true bug reports in these projects.
 - For some projects, there are two report lists, for we segment the full version of report into two parts for the convenience of bug check.
 - The report lists of several projects are quite long, and we check each item in the list by incremental building after touching each file.
