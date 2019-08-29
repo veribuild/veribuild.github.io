@@ -1,17 +1,17 @@
 {
-    "MP(mkcheck own | vemake own | shared)": [
+    "MD(MkCheck own | VeriBuild own | shared)": [
         5, 
         6414, 
         349
     ], 
-    "vemake_EP_own": [], 
-    "EP(mkcheck own | vemake own | shared)": [
+    "VeriBuild_RD_own": [], 
+    "RD(MkCheck own | VeriBuild own | shared)": [
         5, 
         0, 
         0
     ], 
-    "shared_EP_report": [], 
-    "mkcheck_EP_own": [
+    "shared_RD_report": [], 
+    "MkCheck_RD_own": [
         [
             "src/ae.o", 
             "src/ae_evport.c"
@@ -33,7 +33,7 @@
             "src/sds.h"
         ]
     ], 
-    "shared_MP_report": [
+    "shared_MD_report": [
         [
             "src/geo.o", 
             "deps/geohash-int/geohash.h"
@@ -1431,7 +1431,7 @@
             "src/zmalloc.h"
         ]
     ], 
-    "mkcheck_MP_own": [
+    "MkCheck_MD_own": [
         [
             "src/redis-benchmark", 
             "deps/hiredis/libhiredis.a"
@@ -1453,7 +1453,7 @@
             "deps/hiredis/sds.h"
         ]
     ], 
-    "vemake_MP_own": [
+    "VeriBuild_MD_own": [
         [
             "src/sparkline.o", 
             "src/util.h"
@@ -2848,227 +2848,227 @@
         ], 
         [
             "src/sparkline.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/redis-benchmark.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/redis-sentinel", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/setproctitle.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/util.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/lzf_c.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/crc64.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/ziplist.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/adlist.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/anet.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/sentinel.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/bio.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/quicklist.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/redis-check-aof", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/slowlog.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/rdb.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/redis-cli", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/cluster.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/lzf_d.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/sds.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/redis-benchmark", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/redis-cli.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/zmalloc.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/geo.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/sha1.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/db.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/server.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/redis-check-rdb", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/t_string.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/scripting.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/memtest.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/t_zset.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/redis-check-rdb.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/bitops.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/zipmap.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/crc16.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/hyperloglog.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/debug.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/ae.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/lazyfree.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/notify.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/multi.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/rand.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/replication.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/pqsort.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/syncio.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/redis-server", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/latency.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/object.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/sort.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/release.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/pubsub.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/t_list.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/endianconv.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/aof.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/redis-check-aof.o", 
-            "/home/vemakecreator/.gitconfig"
+            "/home/VeriBuildcreator/.gitconfig"
         ], 
         [
             "src/sparkline.o", 

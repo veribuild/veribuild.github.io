@@ -1,17 +1,17 @@
 {
-    "MP(mkcheck own | vemake own | shared)": [
+    "MD(MkCheck own | VeriBuild own | shared)": [
         103, 
         55, 
         0
     ], 
-    "vemake_EP_own": [], 
-    "EP(mkcheck own | vemake own | shared)": [
+    "VeriBuild_RD_own": [], 
+    "RD(MkCheck own | VeriBuild own | shared)": [
         1617, 
         0, 
         0
     ], 
-    "shared_EP_report": [], 
-    "mkcheck_EP_own": [
+    "shared_RD_report": [], 
+    "MkCheck_RD_own": [
         [
             "common/config.lo", 
             "common/asc_ctype.hpp"
@@ -6481,8 +6481,8 @@
             "prog/checker_string.hpp"
         ]
     ], 
-    "shared_MP_report": [], 
-    "mkcheck_MP_own": [
+    "shared_MD_report": [], 
+    "MkCheck_MD_own": [
         [
             ".libs/libaspell.lai", 
             "libtool"
@@ -6896,7 +6896,7 @@
             "modules/tokenizer/.libs/basic.o"
         ]
     ], 
-    "vemake_MP_own": [
+    "VeriBuild_MD_own": [
         [
             "lib/string_enumeration-c.lo", 
             "libtool"

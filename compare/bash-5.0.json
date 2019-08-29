@@ -1,10 +1,10 @@
 {
-    "MP(mkcheck own | vemake own | shared)": [
+    "MD(MkCheck own | VeriBuild own | shared)": [
         318, 
         9623, 
         1511
     ], 
-    "vemake_EP_own": [
+    "VeriBuild_RD_own": [
         [
             "bashversion", 
             "version.h"
@@ -186,13 +186,13 @@
             "builtins/builtext.h"
         ]
     ], 
-    "EP(mkcheck own | vemake own | shared)": [
+    "RD(MkCheck own | VeriBuild own | shared)": [
         617, 
         45, 
         0
     ], 
-    "shared_EP_report": [], 
-    "mkcheck_EP_own": [
+    "shared_RD_report": [], 
+    "MkCheck_RD_own": [
         [
             "bashbug", 
             "Makefile.in"
@@ -2662,7 +2662,7 @@
             "y.tab.h"
         ]
     ], 
-    "shared_MP_report": [
+    "shared_MD_report": [
         [
             "builtins/alias.o", 
             "alias.h"
@@ -8708,7 +8708,7 @@
             "builtins/pipesize.h"
         ]
     ], 
-    "mkcheck_MP_own": [
+    "MkCheck_MD_own": [
         [
             "builtins/builtext.h", 
             "builtins/alias.def"
@@ -9982,7 +9982,7 @@
             "version.h"
         ]
     ], 
-    "vemake_MP_own": [
+    "VeriBuild_MD_own": [
         [
             "arrayfunc.o", 
             "pathnames.h"

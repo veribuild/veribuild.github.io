@@ -1,18 +1,18 @@
 {
-    "MP(mkcheck own | vemake own | shared)": [
+    "MD(MkCheck own | VeriBuild own | shared)": [
         1, 
         2, 
         5
     ], 
-    "vemake_EP_own": [], 
-    "EP(mkcheck own | vemake own | shared)": [
+    "VeriBuild_RD_own": [], 
+    "RD(MkCheck own | VeriBuild own | shared)": [
         0, 
         0, 
         0
     ], 
-    "shared_EP_report": [], 
-    "mkcheck_EP_own": [], 
-    "shared_MP_report": [
+    "shared_RD_report": [], 
+    "MkCheck_RD_own": [], 
+    "shared_MD_report": [
         [
             "namespaced_parser.o", 
             "snazzle_common.h"
@@ -34,13 +34,13 @@
             "snazzle_parse.h"
         ]
     ], 
-    "mkcheck_MP_own": [
+    "MkCheck_MD_own": [
         [
             "snazzle_lex.o", 
             "snazzle_parse.y"
         ]
     ], 
-    "vemake_MP_own": [ 
+    "VeriBuild_MD_own": [ 
         [
             "snazzle_parse.o", 
             "snazzle_lex.h"

@@ -1,17 +1,17 @@
 {
-    "MP(mkcheck own | vemake own | shared)": [
+    "MD(MkCheck own | VeriBuild own | shared)": [
         0, 
         262, 
         0
     ], 
-    "vemake_EP_own": [], 
-    "EP(mkcheck own | vemake own | shared)": [
+    "VeriBuild_RD_own": [], 
+    "RD(MkCheck own | VeriBuild own | shared)": [
         4, 
         0, 
         0
     ], 
-    "shared_EP_report": [], 
-    "mkcheck_EP_own": [
+    "shared_RD_report": [], 
+    "MkCheck_RD_own": [
         [
             "src/compiler/gravity_ircode.o", 
             "src/utils/gravity_debug.h"
@@ -29,9 +29,9 @@
             "src/utils/gravity_debug.h"
         ]
     ], 
-    "shared_MP_report": [], 
-    "mkcheck_MP_own": [], 
-    "vemake_MP_own": [
+    "shared_MD_report": [], 
+    "MkCheck_MD_own": [], 
+    "VeriBuild_MD_own": [
         [
             "src/runtime/gravity_core.o", 
             "src/utils/gravity_json.h"

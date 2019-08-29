@@ -1,17 +1,17 @@
 {
-    "MP(mkcheck own | vemake own | shared)": [
+    "MD(MkCheck own | VeriBuild own | shared)": [
         0, 
         0, 
         216
     ], 
-    "vemake_EP_own": [], 
-    "EP(mkcheck own | vemake own | shared)": [
+    "VeriBuild_RD_own": [], 
+    "RD(MkCheck own | VeriBuild own | shared)": [
         37011, 
         0, 
         0
     ], 
-    "shared_EP_report": [], 
-    "mkcheck_EP_own": [
+    "shared_RD_report": [], 
+    "MkCheck_RD_own": [
         [
             "doc/CK_ARRAY_FOREACH.3.gz", 
             "build/ck.build"
@@ -148057,7 +148057,7 @@
             "src/ck_rhs.c"
         ]
     ], 
-    "shared_MP_report": [
+    "shared_MD_report": [
         [
             "src/ck_barrier_centralized.o", 
             "include/ck_backoff.h"
@@ -148923,6 +148923,6 @@
             "src/ck_internal.h"
         ]
     ], 
-    "mkcheck_MP_own": [], 
-    "vemake_MP_own": []
+    "MkCheck_MD_own": [], 
+    "VeriBuild_MD_own": []
 }
