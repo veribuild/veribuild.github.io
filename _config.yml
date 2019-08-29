@@ -1,32 +1,27 @@
-title: VeriBuild
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: "VeriBuild"
+email: veribuild.icse@gmail.com
 description: "Escaping Dependency Hell: Finding Build Dependency Errors with the Unified Dependency Graph"
-author:
-  name: "veribuild"
-  email: "veribuild.icse@gmail.com"
-  url: ""
+baseurl: "/jekyll-help-center-theme"
+url: ""
+github_username:  "veribuild"
+color_theme:  "#0081ff"
+color_text:  "#fff"
+language:  "en"
 
-baseurl: ""
+# Build settings
+markdown: kramdown
+permalink: /:title/
+gems: [jekyll-paginate]
+paginate: 5
 
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 3
-paginate_path: /page/:num/
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-future: true
-plugins:
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
-
-# Custom variables
-owner : "veribuild"
-year : "2019"
+# Plugins
+plugins_dir:
+  - jekyll-admin
