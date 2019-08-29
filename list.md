@@ -3,7 +3,13 @@ layout: default
 title: list
 ---
 
-This page contains confirmed reports.  All reports submitted by the github account: [vemakereporter](https://github.com/vemakereporter)
+This page contains all the reports reported by VeriBuild. 
+
+- Some reports were submitted by the github account: [vemakereporter](https://github.com/vemakereporter) and the corresponding pull-requests were submitted. Some of them have been confirmed and merged.
+- Some reports were submitted by the tickets in the sourceforge. Some developers confirmed our bug reports by email, and these emails can be accessed through the corresponding links.
+- [None Link] means we didn't submit the reports of these projects, or there are not any true bug reports in these projects.
+- For some projects, there are two report lists, for we segment the full version of report into two parts for the convenience of bug check.
+- The report lists of several projects are quite long, and we check each item in the list by incremental building after touching each file.
 
 ## MD and RD reports
 
@@ -36,7 +42,7 @@ This page contains confirmed reports.  All reports submitted by the github accou
 | gravity | [Link1](http://47.74.247.228:8888/platform/#/platform/report/5d383063b9d7fb337379a345?view=overview&rep=5d383064b9d7fb33710e7dd2) | [Link1](https://github.com/marcobambini/gravity/pull/283)|
 | x86-thing | [Link1](http://47.74.247.228:8888/platform/#/platform/report/5d5aa67bb9d7fb85558c8f81?view=overview&rep=5d5aa67bb9d7fb8553edcc35)|[Link1](https://github.com/nicknytko/x86-thing/pull/7)|
 |grbl|[Link1](http://47.74.247.228:8888/platform/#/platform/report/5d34f47ab9d7fb337379a31f?view=overview&rep=5d34f47ab9d7fb3371ca1e63)|[Link1](https://github.com/grbl/grbl/pull/1539)|
-|Bftpd|[Link1](http://47.74.247.228:8888/platform/#/platform/report/5c9c7c26b9d7fb0857436d24?view=overview&rep=5c9c7c26b9d7fb0857436d25) [Link2](http://47.74.247.228:8888/platform/#/platform/report/5d3a63acb9d7fb337379a359?view=overview&rep=5d3a63acb9d7fb337120fad8)|[Link1](https://sourceforge.net/p/bftpd/discussion/100842/thread/25eac1b10c/?limit=25#5df8) [Link2](https://github.com/grbl/grbl/pull/1539) [Email1](data/Bftpd_MD_email.pdf) [Email2](data/Bftpd_RD_email.pdf) |
+|Bftpd|[Link1](http://47.74.247.228:8888/platform/#/platform/report/5c9c7c26b9d7fb0857436d24?view=overview&rep=5c9c7c26b9d7fb0857436d25) [Link2](http://47.74.247.228:8888/platform/#/platform/report/5d3a63acb9d7fb337379a359?view=overview&rep=5d3a63acb9d7fb337120fad8)|[Link1](https://github.com/grbl/grbl/pull/1539)[(reply1)](data/Bftpd_MD_email.pdf)  [Link2](https://sourceforge.net/p/bftpd/discussion/100842/thread/25eac1b10c/?limit=25#5df8)[(reply2)](data/Bftpd_RD_email.pdf) |
 |gwion-util|[Link1](http://47.74.247.228:8888/platform/#/platform/report/5d447536b9d7fb337379a3f7?view=overview&rep=5d447536b9d7fb3371626353)|[Link1](https://github.com/fennecdjay/gwion-util/pull/7)|
 |cctz|[Link1](http://47.74.247.228:8888/platform/#/platform/report/5d41616fb9d7fb337379a38f?view=overview&rep=5d41616fb9d7fb33717db3e9)|[None Link]|
 |fzy|[Link1](http://47.74.247.228:8888/platform/#/platform/report/5d516b67b9d7fb85558c8f56?view=overview&rep=5d516b67b9d7fb8553d6c8c3)|[Link1](https://github.com/jhawthorn/fzy/pull/119)|
