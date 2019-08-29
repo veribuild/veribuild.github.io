@@ -17,3 +17,9 @@ This page contains the comparison results of VeriBuild and MkCheck.
 | Project Name | MD(MkCheck,VeriBuild,shared) | RD(MkCheck,VeriBuild,shared) |
 | :----------- | :---------- | :--------------- |
 | [fastText](compare/fastText.json) | [0, 10, 0] | [0, 0, 0] |
+| [8cc](compare/8cc.json) | [0, 0, 0] | [0, 0, 0]|
+| [Generic-C-Project](compare/Generic-C-Project.json) | [0, 0, 1] | [0, 0, 0] |
+| [neven](compare/neven.json) | [0, 0, 1649] | [0, 0, 0] |
+| [cctz](compare/cctz.json) | [0, 0, 0] | [0, 0, 0] |
+| [mpc](compare/mpc.json) | [0, 22, 0] | [146, 0, 0] |
+| [tig](compare/tig.json) | [0, 0, 0] | [0, 0, 0]|
