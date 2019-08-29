@@ -5,13 +5,17 @@ title: list
 
 This page contains all the reports reported by VeriBuild. 
 
+## Tips
 - Some reports were submitted by the github account: [vemakereporter](https://github.com/vemakereporter) and the corresponding pull-requests were submitted. Some of them have been confirmed and merged. Some reports were submitted by the tickets in the SourceForge. Some developers confirmed our bug reports by email, and these emails can be accessed through the corresponding links.
 - [None Link] means we didn't submit the reports of these projects, or there are not any true bug reports in these projects. [New Link] means that the errors are confirmed after the submission date(However, the PR was submitted before paper submission)
 - For some projects, there are two report lists, for we segment the full version of report into two parts for the convenience of bug check. The report lists of several projects are quite long, and we check each item in the list by incremental building after touching each file.
 - In each item of bug reports, the CDG records the reachable nodes along with actual dependency edges and the DDG records the available files. These two graphs are extracted based on the query of the UDG and displayed in the report for the convenience of bug check.
+
+## Acknowledgement
 - Thanks to [Sourcebrella Inc](https://www.sourcebrella.com/), we borrowed their bug report system to help us speed up the whole process. We use their free version for academic use [LINK](https://www.sourcebrella.com/online-showcase).
 
-## MD and RD reports
+## Details of Reports
+### MD and RD Reports
 
 | Project Name | Report Link | Report Submission |
 | :----------- | :---------- | :---------------- |
@@ -56,14 +60,14 @@ This page contains all the reports reported by VeriBuild.
 |http-parser|[Link1](http://47.74.247.228:8888/platform/#/platform/report/5d346080b9d7fb337379a31a?view=overview&rep=5d346080b9d7fb3371bcfee0)|[Link1](https://github.com/nodejs/http-parser/pull/488)|
 | Generic-C-Project | [Link1](http://47.74.247.228:8888/platform/#/platform/report/5d5b930db9d7fb85558c8f88?view=overview&rep=5d5b930db9d7fb8553ee47f2) | [None Link] |
 
-## FTI reports
+### FTI Reports
 
 | Project Name | Report Link |
 | :----------- | :---------- |
 | Redis | [Link](http://47.74.247.228:8888/platform/#/platform/report/5d42d6c2b9d7fb337379a39c?view=overview&rep=5d42d6c2b9d7fb33718e0725)|
 | mpc | [Link](http://47.74.247.228:8888/platform/#/platform/report/5d42d552b9d7fb337379a39b?view=overview&rep=5d42d552b9d7fb33718e05fb) |
 
-## FRC reports
+### FRC Reports
 
 | Project Name | Report Link |
 | :----------- | :---------- |
