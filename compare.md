@@ -35,3 +35,17 @@ This page contains the comparison results of VeriBuild and MkCheck.
 | [Capstone](compare/capstone.json) | [5854, 4652, 123] | [1231, 207, 0] |
 | [libco](compare/libco.json) | [40, 3, 31] | [20, 0, 0] |
 | [Bash](compare/bash-5.0.json) | [318, 9623, 1511] | [617, 45, 0]|
+| [greatest](compare/greatest.json) | [0, 0, 1] | [0, 0, 0] |
+| [GNU Aspell](compare/aspell.json) | [103, 55, 0] | [1617, 0, 0] |
+| [Redis](compare/redis.json) | [5, 6414, 349] | [5, 0, 0] |
+| [ck](compare/ck.json)  | [0, 0, 216] | [37011, 0, 0] |
+| [zlib](compare/zlib.json) | [0, 0, 3] | [0, 0, 0] |
+| [lighttpd](compare/lighttpd-1.4.53.json) | [104, 69785, 0] | [707, 4, 0] |
+| [Tmux](compare/tmux.json) | [0, 1, 0] | [0, 0, 0]|
+| [fzy](compare/fzy.json) | [0, 0, 17] | [1, 0, 0] |
+| [Stack-RNN](compare/Stack-RNN.json) | [0, 14, 0] | [4, 0, 0] |
+| [CacheSimulator](compare/CacheSimulator.json) | [0, 1, 2] | [0, 0, 0]|
+| [kleaver](compare/kleaver.json) | [2, 11, 0] | [0, 0, 0] |
+| [http-parser](compare/http-parser.json) | [0, 0, 0] | [0, 0, 0] |
+| [clib](compare/clib.json) |[0, 31, 147] | [6, 0, 0]|
+| [Cppcheck](compare/cppcheck-1.87.json) | [0, 16, 0] | [21, 0, 0]|
