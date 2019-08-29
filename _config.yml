@@ -6,12 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "VeriBuild"
-email: veribuild.icse@gmail.com
-description: "Escaping Dependency Hell: Finding Build Dependency Errors with the Unified Dependency Graph"
+title: "Help Center"
+email: gusquinalha@gmail.com
+description: "Simple and flexible Jekyll theme for help center."
 baseurl: "/jekyll-help-center-theme"
-url: ""
-github_username:  "veribuild"
+url: "http://quinalha.me"
+twitter_username: "gustavoquinalha"
+github_username:  "gustavoquinalha"
 color_theme:  "#0081ff"
 color_text:  "#fff"
 language:  "en"
