@@ -13,7 +13,7 @@ This page contains the comparison results of VeriBuild and MkCheck.
 
 ## Details of Results
 | Project Name | MD(MkCheck,VeriBuild,shared) | RD(MkCheck,VeriBuild,shared) |
-| :----------- | :-----------| :-----------------|
+| :----------- | :---------- | :--------------- |
 | [fastText](compare/fastText.json) | [0, 10, 0] | [0, 0, 0] |
 | [8cc](compare/8cc.json) | [0, 0, 0] | [0, 0, 0]|
 | [Generic-C-Project](compare/Generic-C-Project.json) | [0, 0, 1] | [0, 0, 0] |
