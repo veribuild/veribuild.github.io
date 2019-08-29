@@ -6,7 +6,7 @@ layout: default
 ---
 
 ## Tips for YOU
-There are some [tips](/tips) for you. These tips might can help you to understand the reports of VeriBuild.
+There are some [tips](/tips) for you. These tips can help you to understand the reports of VeriBuild.
 
 ## Effectiveness
 If you want to know the details of the reports provided by Veribuild, you can read this [list](/list).
