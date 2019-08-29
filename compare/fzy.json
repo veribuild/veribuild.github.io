@@ -1,0 +1,92 @@
+{
+    "MD(MkCheck own | VeriBuild own | shared)": [
+        0, 
+        0, 
+        17
+    ], 
+    "VeriBuild_RD_own": [], 
+    "RD(MkCheck own | VeriBuild own | shared)": [
+        1, 
+        0, 
+        0
+    ], 
+    "shared_RD_report": [], 
+    "MkCheck_RD_own": [
+        [
+            "src/choices.o", 
+            "src/config.def.h"
+        ]
+    ], 
+    "shared_MD_report": [
+        [
+            "src/match.o", 
+            "src/bonus.h"
+        ], 
+        [
+            "src/choices.o", 
+            "src/choices.h"
+        ], 
+        [
+            "src/fzy.o", 
+            "src/choices.h"
+        ], 
+        [
+            "src/tty_interface.o", 
+            "src/choices.h"
+        ], 
+        [
+            "src/choices.o", 
+            "src/match.h"
+        ], 
+        [
+            "src/fzy.o", 
+            "src/match.h"
+        ], 
+        [
+            "src/match.o", 
+            "src/match.h"
+        ], 
+        [
+            "src/tty_interface.o", 
+            "src/match.h"
+        ], 
+        [
+            "src/choices.o", 
+            "src/options.h"
+        ], 
+        [
+            "src/fzy.o", 
+            "src/options.h"
+        ], 
+        [
+            "src/options.o", 
+            "src/options.h"
+        ], 
+        [
+            "src/tty_interface.o", 
+            "src/options.h"
+        ], 
+        [
+            "src/fzy.o", 
+            "src/tty.h"
+        ], 
+        [
+            "src/tty.o", 
+            "src/tty.h"
+        ], 
+        [
+            "src/tty_interface.o", 
+            "src/tty.h"
+        ], 
+        [
+            "src/fzy.o", 
+            "src/tty_interface.h"
+        ], 
+        [
+            "src/tty_interface.o", 
+            "src/tty_interface.h"
+        ]
+    ], 
+    "MkCheck_MD_own": [], 
+    "VeriBuild_MD_own": []
+}

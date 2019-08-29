@@ -1,0 +1,23 @@
+{
+    "MD(MkCheck own | VeriBuild own | shared)": [
+        0, 
+        1, 
+        0
+    ], 
+    "VeriBuild_RD_own": [], 
+    "RD(MkCheck own | VeriBuild own | shared)": [
+        0, 
+        0, 
+        0
+    ], 
+    "shared_RD_report": [], 
+    "MkCheck_RD_own": [], 
+    "shared_MD_report": [], 
+    "MkCheck_MD_own": [], 
+    "VeriBuild_MD_own": [
+        [
+            "cmd-parse.c", 
+            "ylwrap66669/y.tab.c"
+        ]
+    ]
+}

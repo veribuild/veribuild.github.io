@@ -1,0 +1,92 @@
+{
+    "MD(MkCheck own | VeriBuild own | shared)": [
+        0, 
+        14, 
+        0
+    ], 
+    "VeriBuild_RD_own": [], 
+    "RD(MkCheck own | VeriBuild own | shared)": [
+        4, 
+        0, 
+        0
+    ], 
+    "shared_RD_report": [], 
+    "MkCheck_RD_own": [
+        [
+            "train_add", 
+            "makefile"
+        ], 
+        [
+            "train_toy", 
+            "makefile"
+        ], 
+        [
+            "train_toy", 
+            "train_add.cpp"
+        ], 
+        [
+            "train_add", 
+            "train_toy.cpp"
+        ]
+    ], 
+    "shared_MD_report": [], 
+    "MkCheck_MD_own": [], 
+    "VeriBuild_MD_own": [
+        [
+            "train_toy", 
+            "StackRNN.h"
+        ], 
+        [
+            "train_toy", 
+            "task.h"
+        ], 
+        [
+            "train_toy", 
+            "Nonlinearity.h"
+        ], 
+        [
+            "train_toy", 
+            "Vec.h"
+        ], 
+        [
+            "train_toy", 
+            "Linear.h"
+        ], 
+        [
+            "train_toy", 
+            "utils.h"
+        ], 
+        [
+            "train_toy", 
+            "common.h"
+        ], 
+        [
+            "train_add", 
+            "StackRNN.h"
+        ], 
+        [
+            "train_add", 
+            "task.h"
+        ], 
+        [
+            "train_add", 
+            "Nonlinearity.h"
+        ], 
+        [
+            "train_add", 
+            "Linear.h"
+        ], 
+        [
+            "train_add", 
+            "Vec.h"
+        ], 
+        [
+            "train_add", 
+            "utils.h"
+        ], 
+        [
+            "train_add", 
+            "common.h"
+        ]
+    ]
+}

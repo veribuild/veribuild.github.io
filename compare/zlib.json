@@ -1,0 +1,31 @@
+{
+    "MD(MkCheck own | VeriBuild own | shared)": [
+        0, 
+        0, 
+        3
+    ], 
+    "VeriBuild_RD_own": [], 
+    "RD(MkCheck own | VeriBuild own | shared)": [
+        0, 
+        0, 
+        0
+    ], 
+    "shared_RD_report": [], 
+    "MkCheck_RD_own": [], 
+    "shared_MD_report": [
+        [
+            "zutil.lo", 
+            "gzguts.h"
+        ], 
+        [
+            "zutil.o", 
+            "gzguts.h"
+        ], 
+        [
+            "libz.so.1.2.11", 
+            "zlib.map"
+        ]
+    ], 
+    "MkCheck_MD_own": [], 
+    "VeriBuild_MD_own": []
+}

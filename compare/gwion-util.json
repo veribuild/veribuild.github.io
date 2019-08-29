@@ -1,0 +1,51 @@
+{
+    "MD(MkCheck own | VeriBuild own | shared)": [
+        0,
+        0,
+        0
+    ],
+    "VeriBuild_RD_own": [],
+    "RD(MkCheck own | VeriBuild own | shared)": [
+        0,
+        0,
+        8
+    ],
+    "MkCheck_RD_own": [],
+    "shared_RD_report": [
+        [
+            "src/err_msg.o",
+            "config.mk"
+        ],
+        [
+            "src/hash.o",
+            "config.mk"
+        ],
+        [
+            "src/map.o",
+            "config.mk"
+        ],
+        [
+            "src/mpool.o",
+            "config.mk"
+        ],
+        [
+            "src/scope.o",
+            "config.mk"
+        ],
+        [
+            "src/symbol.o",
+            "config.mk"
+        ],
+        [
+            "src/text.o",
+            "config.mk"
+        ],
+        [
+            "src/vector.o",
+            "config.mk"
+        ]
+    ],
+    "shared_MD_report": [],
+    "MkCheck_MD_own": [],
+    "VeriBuild_MD_own": []
+}
