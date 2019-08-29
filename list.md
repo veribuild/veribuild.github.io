@@ -15,6 +15,13 @@ This page contains all the reports reported by VeriBuild.
 - Thanks to [Sourcebrella Inc](https://www.sourcebrella.com/), we bought their bug report system to help us to process the bug check. We use their [full version](https://www.sourcebrella.com/online-showcase) for academic use.
 
 ## Details of Reports
+
+### How to Access the Reports
+
+You can use the following account to login in the bug report system.
+- Username: veribuildviewer
+- Password: veribuildviewer
+
 ### MD and RD Reports
 
 | Project Name | Report Link | Report Submission |
