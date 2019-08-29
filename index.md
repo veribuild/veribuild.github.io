@@ -6,6 +6,9 @@ layout: default
 title: VeriBuild
 ---
 
+## News
+398 dependency errors have been confirmed. (Update on Aug 29, 2019)
+
 ## Tips for YOU
 There are some necessary tips for you, which can help you to understand the reports.
 - VeriBuild is a general approach for dependency error detection and Vemake is an instance of VeriBuild customized for GNU Make. The reports of VeriBuild were submitted by the github account [vemakereporter](https://github.com/vemakereporter) or SourceForge account.
