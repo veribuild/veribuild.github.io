@@ -7,7 +7,8 @@ title: VeriBuild
 ---
 
 ## News
-398 dependency errors have been confirmed. (Update on Aug 29, 2019)
+- Fix 12 missing dependencies in [MPC](https://github.com/orangeduck/mpc/pull/115) have been confirmed. The number of confirmed dependency errors has reached 410. (Update on Step 2, 2019)
+- 398 dependency errors have been confirmed. (Update on Aug 24, 2019)
 
 ## Tips for YOU
 There are some necessary tips for you, which can help you to understand the reports.
