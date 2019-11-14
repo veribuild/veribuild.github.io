@@ -17,7 +17,10 @@ The following tips can help you to understand the reports.
 - In the report lists of VeriBuild published in Effectiveness part, MP(Missing Prerequisite) means MD(Missing Dependency), and EP(Excessive Prerequisite) means RD(Redundant Dependency).
 
 ## Effectiveness
-If you want to know the details of the reports provided by Veribuild, you can click this link [list](/list).
+If you want to know the details of the reports provided by Veribuild, you can click this link [report-list](/list).
 
 ## Efficiency
-If you want to know the comparison results of VeriBuild and MkCheck, you can click this link [list](/compare).
+If you want to know the comparison results of VeriBuild and MkCheck, you can click this link [compare](/compare).
+
+## List with non-header dependency issues
+Please visit this link: [non-header-dependency-issues](/list_nhd).
