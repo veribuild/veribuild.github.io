@@ -3,13 +3,13 @@ layout: default
 title: list
 ---
 
-This page contains all the reports reported by VeriBuild. 
+This page displays the reports of VeriBuild and confirmations from developers. 
 
 ## Tips
-- Some reports were submitted by the github account: [vemakereporter](https://github.com/vemakereporter) and the corresponding pull-requests were submitted. Some of them have been confirmed and merged. Some reports were submitted by the tickets in the SourceForge. Some developers confirmed our bug reports by email, and these emails can be accessed through the corresponding links.
-- [None Link] means we didn't submit the reports of these projects, or there are not any true bug reports in these projects. [New Link] means that the errors are confirmed after the submission date(However, the PR was submitted before paper submission)
-- For some projects, there are two report lists, for we segment the full version of report into two parts for the convenience of bug check. The report lists of several projects are quite long, and we check each item in the list by incremental building after touching each file.
-- In each item of bug reports, the CDG records the reachable nodes along with actual dependency edges and the DDG records the available files. These two graphs are extracted based on the query of the UDG and displayed in the report for the convenience of bug check.
+- The reports are submitted by three means: Github issues: [vemakereporter](https://github.com/vemakereporter). Sourceforge tickets and emails.
+- [None Link] means we did not submit the reports of these projects, or there are not any true bug reports in these projects. [New Link] means that the errors are confirmed after the submission date(However, the PR was submitted before paper submission)
+- For some projects, there are two report lists, for we segment the full version of the report into two parts for the convenience of bug check. The report lists of several projects are quite long, and we check each item in the list by incremental building after touching each file.
+- In each item of bug reports, the CDG records the reachable nodes along with actual dependency edges, and the DDG records the available files. These two graphs are extracted from the UDG and kept in the report for debugging purposes.
 
 ## Acknowledgement
 - Thanks to [Sourcebrella Inc](https://www.sourcebrella.com/), we bought their bug report system to help us to process the bug check. We use their [full version](https://www.sourcebrella.com/online-showcase) for academic use.
@@ -18,7 +18,7 @@ This page contains all the reports reported by VeriBuild.
 
 ### How to Access the Reports
 
-You can use the following account to login in the bug report system.
+You can use the following account to login into the bug report system.
 - Username: veribuildviewer
 - Password: veribuildviewer
 
