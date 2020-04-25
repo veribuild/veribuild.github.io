@@ -19,16 +19,6 @@ With the login information attached in README, you can login a Jenkins system fo
 | vemake_run_veribuild_for_one_project | Run Veribuild MP or RD check for a project |
 | vemake_run_FR| Run Veribuild FR check for a project |
 
-## The source code of Veribuild
-
-With the login information provided in README, you can find the source code of Veribuild in:
-
-```bash
-/home/vemakecreator/CODEBASE/veribuild/Vemake/VemakeTool/vemake/tool
-```
-
-The source code will be open-sourced after the review process and rewriting documents. 
-
 
 ## How to run BuildFuzzing job
 
@@ -241,4 +231,14 @@ And you can also find the JSON-formatted results (MP.json and EP.json) at the th
 ```bash
 /home/vemakecreator/CODEBASE/veribuild/Vemake/testbase/testoutput/hashcat
 ```
+
+## The source code of Veribuild
+
+With the login information provided in README, you can find the source code of Veribuild in:
+
+```bash
+/home/vemakecreator/CODEBASE/veribuild/Vemake/VemakeTool/vemake/tool
+```
+
+The source code will be open-sourced after the review process and rewriting documents. 
 
