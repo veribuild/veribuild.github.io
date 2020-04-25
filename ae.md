@@ -97,7 +97,7 @@ We use a project **CacheSimulator** to illustrate how to run Veribuild on it.
 6. Click "Console output" to view the output of running Veribuild. 
 
 Here is an example:
-### Check results:
+### Check results
 
 In the "Console output", you can find a section in the log similar to :
 
